@@ -1,2 +1,10 @@
-# gestos_viernes
-prueba app gestos y repositorio github
+# Gestures
+
+## Usage
+
+### PhoneGap CLI
+
+    $ phonegap serve
+
+
+
